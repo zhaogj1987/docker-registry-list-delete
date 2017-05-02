@@ -1,1 +1,1 @@
-# docker-registry-list-delete
+# docker registry api list delete
